@@ -1,4 +1,4 @@
-FILEPATH = "D:/Ardit_Python/app1\journal/todos.txt"
+FILEPATH = "todos.txt"
 
 
 def get_todos(filepath=FILEPATH):
